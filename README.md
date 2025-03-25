@@ -43,3 +43,5 @@ This React-based chat app is an excellent learning tool for beginners. It provid
 
 🏁 Final Thoughts
 Our Real-Time Chat App is a lightweight yet powerful frontend project that demonstrates how easy it is to create a chat system without a backend. It offers a responsive and interactive user experience, making it perfect for anyone learning React and real-time messaging. 🚀💬
+
+realtimechat.ss.png
